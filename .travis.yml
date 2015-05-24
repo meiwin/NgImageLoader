@@ -1,0 +1,2 @@
+language: objective-c
+script: xcodebuild test -workspace NgImageLoader.xcworkspace -scheme NgImageLoader -sdk 'iphonesimulator' ONLY_ACTIVE_ARCH=NO
