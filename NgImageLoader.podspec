@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'NgImageLoader'
-  spec.version      = '1.0'
+  spec.version      = '1.0.1'
   spec.summary      = 'Objective-c image loader library.'
   spec.homepage     = 'https://github.com/meiwin/NgImageLoader'
   spec.author       = { 'Meiwin Fu' => 'meiwin@blockthirty.com' }
