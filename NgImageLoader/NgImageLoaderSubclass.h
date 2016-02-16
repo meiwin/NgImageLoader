@@ -3,7 +3,7 @@
 //  NgImageLoader
 //
 //  Created by Meiwin Fu on 25/5/15.
-//  Copyright (c) 2015 BlockThirty. All rights reserved.
+//  Copyright (c) 2015 Meiwin Fu. All rights reserved.
 //
 
 #ifndef NgImageLoader_NgImageLoaderSubclass_h

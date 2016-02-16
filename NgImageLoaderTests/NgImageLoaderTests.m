@@ -3,7 +3,7 @@
 //  NgImageLoader
 //
 //  Created by Meiwin Fu on 24/5/15.
-//  Copyright (c) 2015 BlockThirty. All rights reserved.
+//  Copyright (c) 2015 Meiwin Fu. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -11,11 +11,11 @@
 #import "NgImageLoader.h"
 
 #pragma mark -
-@interface NSImageLoaderTests : XCTestCase
+@interface NgImageLoaderTests : XCTestCase
 
 @end
 
-@implementation NSImageLoaderTests
+@implementation NgImageLoaderTests
 
 - (void)setUp {
     [super setUp];

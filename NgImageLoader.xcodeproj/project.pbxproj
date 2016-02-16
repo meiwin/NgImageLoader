@@ -17,7 +17,7 @@
 		DC59A8751B121D0400A40E80 /* NgImageLoader.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DC59A8741B121D0400A40E80 /* NgImageLoader.h */; };
 		DC59A8771B121D0400A40E80 /* NgImageLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = DC59A8761B121D0400A40E80 /* NgImageLoader.m */; };
 		DC59A87D1B121D0400A40E80 /* libNgImageLoader.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DC59A8711B121D0400A40E80 /* libNgImageLoader.a */; };
-		DC59A88C1B121E6300A40E80 /* NSImageLoaderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DC59A88B1B121E6300A40E80 /* NSImageLoaderTests.m */; };
+		DC59A88C1B121E6300A40E80 /* NgImageLoaderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DC59A88B1B121E6300A40E80 /* NgImageLoaderTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,7 +60,7 @@
 		DC59A8761B121D0400A40E80 /* NgImageLoader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NgImageLoader.m; sourceTree = "<group>"; };
 		DC59A87C1B121D0400A40E80 /* NgImageLoaderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NgImageLoaderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC59A8821B121D0400A40E80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DC59A88B1B121E6300A40E80 /* NSImageLoaderTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSImageLoaderTests.m; sourceTree = "<group>"; };
+		DC59A88B1B121E6300A40E80 /* NgImageLoaderTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NgImageLoaderTests.m; sourceTree = "<group>"; };
 		DC59A8911B12312300A40E80 /* NgImageLoaderSubclass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NgImageLoaderSubclass.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -153,7 +153,7 @@
 				DC59A8811B121D0400A40E80 /* Supporting Files */,
 				DC395ABB1B1CCD7400607B5A /* test.gif */,
 				DC395ABC1B1CCD7400607B5A /* test.png */,
-				DC59A88B1B121E6300A40E80 /* NSImageLoaderTests.m */,
+				DC59A88B1B121E6300A40E80 /* NgImageLoaderTests.m */,
 			);
 			path = NgImageLoaderTests;
 			sourceTree = "<group>";
@@ -301,7 +301,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DC59A88C1B121E6300A40E80 /* NSImageLoaderTests.m in Sources */,
+				DC59A88C1B121E6300A40E80 /* NgImageLoaderTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
